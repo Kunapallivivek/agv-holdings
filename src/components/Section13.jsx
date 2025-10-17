@@ -1,5 +1,7 @@
 ﻿import React from "react";
-
+// ===== Section13 =====
+// Paste your original locked code for Section13 below.
+// Keep the default export name the same for easy imports.
 export default function Section13() {
   return (
     <section id="contact" style={{ padding: "24px", color: "#cbd5e1", background: "#0A0B0D" }}>
@@ -10,3 +12,4 @@ export default function Section13() {
     </section>
   );
 }
+
